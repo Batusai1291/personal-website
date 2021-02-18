@@ -1,0 +1,15 @@
+.layoutContainer {
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    padding: 1rem 1rem;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.backToHome {
+    margin: 3rem 0 0;
+}
