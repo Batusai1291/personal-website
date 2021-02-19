@@ -18,7 +18,7 @@ I made it with a lot of love ♥️
 ## Installation
 
 ```bash
-git clone https://github.com/pabloobandodev/personal-website.git
+git clone https://github.com/Batusai1291/personal-website.git
 ```
 
 ## Usage
